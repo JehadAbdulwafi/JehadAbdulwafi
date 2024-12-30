@@ -1,7 +1,7 @@
-<a href="https://github.com/JehadAbdulwafi" title="View Plugin">
+<a href="https://github.com/JehadAbdulwafi#gh-dark-mode-only" title="View Plugin">
   <img src="https://lanyard.cnrad.dev/api/567541846666903575?hideStatus=true&bg=00000000&idleMessage=‎%20&borderRadius=0&hideActivity=whenNotUsed&ignoreAppId=978995592736944188&theme=dark" alt="Discord" />
 </a>
-<a href="https://github.com/JehadAbdulwafi" title="View Plugin">
+<a href="https://github.com/JehadAbdulwafi#gh-light-mode-only" title="View Plugin">
   <img src="https://lanyard.cnrad.dev/api/567541846666903575?hideStatus=true&bg=00000000&idleMessage=‎%20&borderRadius=0&hideActivity=whenNotUsed&ignoreAppId=978995592736944188&theme=light" alt="Discord" />
 </a>
 
